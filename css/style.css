@@ -15,3 +15,7 @@
 .column h2 {
   text-align: center;
 }
+
+.column img {
+  width: 100%;
+}
