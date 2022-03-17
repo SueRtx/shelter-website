@@ -1,4 +1,17 @@
 .column {
-  width: 20%;
+  width: 15%;
   float: left;
+  margin: 15px;
+}
+
+.cat {
+  background-color: lightskyblue;
+}
+
+.dog {
+  background-color: pink;
+}
+
+.column h2 {
+  text-align: center;
 }
